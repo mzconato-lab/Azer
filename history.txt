@@ -1,0 +1,104 @@
+ 1  ls
+    2  cd documents
+    3  mdkir Azer
+    4  ls
+    5  cd ..
+    6  cd documents
+    7  midkir Azer
+    8  cd Azer
+    9  ls
+   10  touch test.txt
+   11  ls
+   12  touch readme.md
+   13  start readme.md
+   14  ls
+   15  git int
+   16  ls -al
+   17  git init
+   18  git add
+   19  git commit
+   20  git config --global user.email "mz.conato@olivarezcollege.edu.ph"
+   21  git config --global user.name "Azer"
+   22  git remote add origin https://github.com/mzconato-lab/Azer.git
+   23  git branch -M main
+   24  git push -u origin main
+   25  start readme.md
+   26  git commit "Azer"
+   27  git commit -m "Azer"
+   28  git add ..
+   29  git config --global user.name
+   30  git config --global user.email
+   31  git commit -m "Azer"
+   32  git add "Azer"
+   33  git remode add origin https://github.com/mzconato-lab/Azer.git
+   34  git push -u origin
+   35  git push -u origin main
+   36  git push -u origin main
+   37  git branch -M main
+   38  git remote add origin https://github.com/mzconato-lab/Azer.git~
+   39  git push -u origin
+   40
+   41  git remote add origin
+   42  git remote add origin https://github.com/mzconato-lab/Azer.git
+   43  git push -u orgin
+   44  git push -u origin
+   45  git push
+   46  git push -u origin main
+   47  git status
+   48  cd .git
+   49  ls
+   50  start readme.md
+   51  git add.
+   52  cd..
+   53  cd ..
+   54  git status
+   55  ls
+   56  git status
+   57  git add .
+   58  git status
+   59  git commit -m
+   60  git commit
+   61  git commit -m "Azer"
+   62  cd .git
+   63  ls
+   64  git config
+   65  ls
+   66  git config
+   67  start readme.md
+   68  git add .
+   69  cd ..
+   70  git add .
+   71  git status
+   72  ls
+   73  git commit -m "Azer"
+   74  git branch -M main
+   75  git remote add origin https://github.com/mzconato-lab/Azer.git
+   76  git push -u origin main
+   77  start readme.md
+   78  git status
+   79  git add ..
+   80  git status
+   81  git commit -m "Azer"
+   82  git push
+   83  cd
+   84  cd ..
+   85  git clone https://github.com/mzconato-lab/Azer.git
+   86  git clone https://github.com/mzconato-lab/Azer.git
+   87  history
+   88  ls
+   89  git add .
+   90  git clone https://github.com/mzconato-lab/Azer.git
+   91  touch.history
+   92  history.touch
+   93  git clone https://github.com/mzconato-lab/Azer.git
+   94  cd documents
+   95  history.txt
+   96  cd documents
+   97  ls
+   98  git azer
+   99  cd azer
+  100  cd Azer
+  101  cd documents
+  102  git branch -M main
+  103  git clone https://github.com/mzconato-lab/Azer.git
+  104  history
